@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun2371)](https://solved.ac/hyun2371)
+
 
 ### Projects
 |Period|Title|Description|
