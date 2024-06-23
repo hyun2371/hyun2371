@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun2371)](https://solved.ac/hyun2371)
-
-
 ### Projects
 |Period|Title|Description|
 |---|---|---|
@@ -21,3 +18,7 @@
 |2023.03 ~ 2023.09|ICT 한이음 멘토링 팀장|
 |2022.09 ~ 2022.12|IT 연합동아리 UMC 3기 Server Spring 파트|
 |2022.03 ~ 2022.08|IT 연합동아리 UMC 2기 Android 파트|
+
+<br>
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun2731)](https://solved.ac/hyun2731)
