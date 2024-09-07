@@ -3,6 +3,7 @@
 ### Projects
 |Period|Title|Description|
 |---|---|---|
+|2024.07 ~ |[공무인](https://github.com/dnd-side-project/dnd-11th-3-backend)|공무원 인수인계 Q&A 서비스|
 |2024.02 ~ 2023.03|[HandsUp](https://github.com/Programmers-HandsUp/BE-handsup)|입찰식 중고 거래 플랫폼|
 |2023.12 ~ 2024.01|[Catch Takza](https://github.com/dev-hooon/catchtable)|캐치테이블 클론 코딩|
 |2023.04 ~ 2023.09|[북다락](https://github.com/BookDarak/Backend)|Open AI API 활용한 독서 다이어리 앱|
