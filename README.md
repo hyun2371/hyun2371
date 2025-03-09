@@ -22,7 +22,7 @@
 |2022.03 ~ 2022.08|IT 연합동아리 UMC 2기 Android 파트|
 
 ### 🛠 Skills
-![Java](https://img.shields.io/badge/Java-6f42c1?style=flat&logo=Java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-6f42c1?style=flat&logo=OpenJDK&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) 
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 <br>
