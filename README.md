@@ -7,7 +7,7 @@
 |2024.02 ~ 2023.03|[HandsUp](https://github.com/Programmers-HandsUp/BE-handsup)|입찰식 중고 거래 플랫폼|
 |2023.12 ~ 2024.01|[Catch Takza](https://github.com/dev-hooon/catchtable)|캐치테이블 클론 코딩|
 |2023.04 ~ 2023.09|[북다락](https://github.com/BookDarak/Backend)|Open AI API 활용한 독서 다이어리 앱|
-|2022.09 ~ 2022.11|[어디가?](https://github.com/where-to-go-sujungDEV/wheretogo-app)|사용자 맞춤형 행사 추천 플랫폼|
+|2022.09 ~ 2022.11|[어디가?](https://github.com/hyun2371/wheretogo-app)|사용자 맞춤형 행사 추천 플랫폼|
 |2022.07 ~ 2022.08|[Librog](https://github.com/LIBROG-team/LIBROG-Android)|독서를 통한 식물 육성 앱|
 
 <br>
